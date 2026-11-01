@@ -6,4 +6,4 @@
 | Repository | What you find there |
 |---|---|
 | [stathe](https://github.com/stathe-io/stathe) | A read-only assessment of Kubernetes configuration, with evidence you can hand to an auditor |
-| [secure-lab](https://github.com/stathe-io/secure-lab) | An air-gapped Kubernetes reference that shows how software gets into a closed cluster. Every claim has a check |
+| [secure-lab](https://github.com/stathe-io/secure-lab) | How to build an air-gapped Kubernetes platform and prove what runs in it. A guide, templates and a lab |
