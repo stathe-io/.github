@@ -3,6 +3,9 @@
   <img alt="stathe" src="wordmark-dark.svg" width="200">
 </picture>
 
+<br>
+<br>
+
 | Repository | What you find there |
 |---|---|
 | [k8s-airgap-templates](https://github.com/stathe-io/k8s-airgap-templates) | Templates for an air-gapped Kubernetes platform. Each says where it goes and how far it was tested |
